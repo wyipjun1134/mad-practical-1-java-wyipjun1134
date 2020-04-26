@@ -10,3 +10,5 @@ You can use [Repl.it](https://repl.it/languages/java10) to test your codes.
 To submit your answer, edit the file from the web editor or git push to the repo.
 Your submission will be auto graded upon checked in and your results be shown under the Actions tab
 
+[![Run on Repl.it](https://repl.it/badge/github/MAD-2020/mad-practical-1-java-wyipjun1134)](https://repl.it/github/MAD-2020/mad-practical-1-java-wyipjun1134)
+
